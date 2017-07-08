@@ -1,0 +1,23 @@
+Descrição:
+Entregar as atividades:
+- Atividade 4: Pentágono ------- GitHub Ok ---- OpenGl_01
+- Atividade 5: Cubo ------------ GitHub Ok ---- OpenGl_02
+- Atividade 6: Terreno --------- GitHub Ok - OpenGl_03
+- Atividade 7: Camera FPS ------ GitHub Ok - Lucas   ---- OpenGl_04
+- Atividade 8: Luz posicional -- GitHub Ok ---- OpenGl_05
+
+E desafios:
+- Desafio 0: --------------- GitHub Ok Talvez -- Mesmo slide que a linha ..
+- Desafio 1: Linha --------- GitHub Ok -- 01 Processamento de imagens - Introdução
+- Desafio 2: Bloom --------- GitHub Ok +- -- 02 Processamento de imagens HSV
+- Desafio 3: Equalize HSV -- GitHub Ok -- 03 Processamento de imagens - Histogramas
+- Desafio 4: Ondas --------- GitHub Ok -- OpenGL_03
+- Desafio 5: Esferas ------- GitHub Ok -- Procurar
+
+Nota dos desafios:
+- Os 6 entregues: 1,0
+- Somente 5 entregues: 0,6
+- Somente 4 entregues: 0,3
+- Menos que isso: 0,0
+
+glPolygonMode(GL_FRONT_FACE, GL_LINE);
